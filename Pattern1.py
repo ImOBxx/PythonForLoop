@@ -1,0 +1,7 @@
+print ("*" * 5)
+print ("*" * 1) 
+print ("*" * 1)
+print ("*" * 4)
+print ("*" * 1) 
+print ("*" * 1)  
+print ("*" * 5)  
